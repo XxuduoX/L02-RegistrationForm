@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">L02-RegistrationForm</string>
+    <string name="tv_name">Name:</string>
+    <string name="tv_pw">Password:</string>
+    <string name="bt_log">LOGIN</string>
+    <string name="bt_cancel">CANCEL</string>
+    <string name="tv_reg">Registration Form</string>
+    <string name="tv_welcNote">Welcome to Adventure Learning Club!</string>
+    <string name="tv_Full">Full Name</string>
+    <string name="pt_first">First Name</string>
+    <string name="tv_last">Last Name</string>
+    <string name="tv_gender">Gender</string>
+    <string name="rb_m">Male</string>
+    <string name="rb_f">Female</string>
+    <string name="tv_id">Student ID</string>
+    <string name="tv_school">School</string>
+    <string name="tv_em">E-mail</string>
+    <string name="tv_num">Phone</string>
+    <string name="bt_reg">Register</string>
+</resources>
